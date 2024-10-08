@@ -16,6 +16,9 @@ This project aims to predict insurance claims using machine learning techniques,
 ## Tools and Libraries
 
 **Python**
-pandas, numpy for data manipulation
-matplotlib, seaborn for data visualization
-scikit-learn for resampling techniques and machine learning algorithms
+
+**pandas, numpy for data manipulation**
+
+**matplotlib, seaborn for data visualization**
+
+**scikit-learn for resampling techniques and machine learning algorithms**
